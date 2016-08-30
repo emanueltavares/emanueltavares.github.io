@@ -30,10 +30,18 @@
 
 body {
     font-family: Helvetica, Arial, Freesans, clean, sans-serif;
-padding:1em;
-margin:auto;
-max-width:42em;
-background:#fefefe;
+    padding:1em;
+    margin:auto;
+    max-width:42em;
+    background:#fefefe;
+}
+
+img {
+    max-width: 42em;
+    max-height: 42em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -78,6 +86,7 @@ hr {
 
 p, blockquote, ul, ol, dl, li, table, pre {
     margin: 15px 0;
+    text-align: justify;
 }
 
 code, pre {
