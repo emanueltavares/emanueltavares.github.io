@@ -6,7 +6,7 @@ Hi, my name is Emanuel Tavares and I'm a Unity 3D developer from Brazil. I creat
 
 ### Vinicius Run
 
-[Oktagon Games](http://www.oktagongames.com/) is a mobile game startup that I have been working remotely as a freelancer for more than a year. I always wanted to do remote work before but could never find anything; now that they gave me something, I will always be grateful for them.
+[Oktagon Games](http://www.oktagongames.com/) is a mobile game startup that I have been working remotely as a freelancer for more than a year. I always wanted to do remote work before but could never find anything; now that they gave me something, I will always be grateful to them.
 
 Working remote seems like a dream come true to many people. Remote work brings perks like being close to family, no commuting, no dress code and no interruptions, if you do not have noisy neighbors and/or family. Not everything is perfect, though.
 
