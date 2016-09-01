@@ -1,3 +1,10 @@
+- [About me](#about-me)
+- [Projects](#projects)
+  * [Vinicius Run](#vinicius-run)
+  * [Pooks](#pooks)
+  * [Talking Rocks](#talking-rocks)
+  * [Word Trip](#word-trip)
+
 ## About me
 
 Hi, my name is Emanuel Tavares and I'm a Unity 3D developer from Brazil. I created this website to showcase projects that I worked with as part of a team.
@@ -5,11 +12,6 @@ Hi, my name is Emanuel Tavares and I'm a Unity 3D developer from Brazil. I creat
 ## Projects
 
 Quick links for everything.
-
-- [Vinicius Run](#vinicius-run)
-- [Pooks](#pooks)
-- [Talking Rocks](#talking-rocks)
-- [Word Trip](#word-trip)
 
 ### Vinicius Run
 
