@@ -4,6 +4,13 @@ Hi, my name is Emanuel Tavares and I'm a Unity 3D developer from Brazil. I creat
 
 ## Projects
 
+Quick links for everything.
+
+- [Vinicius Run](#vinicius-run)
+- [Pooks](#pooks)
+- [Talking Rocks](#talking-rocks)
+- [Word Trip](#word-trip)
+
 ### Vinicius Run
 
 [Oktagon Games](http://www.oktagongames.com/) is a mobile game startup that I have been working remotely as a freelancer for more than a year. I always wanted to do remote work before but could never find anything; now that they gave me something, I will always be grateful to them.
